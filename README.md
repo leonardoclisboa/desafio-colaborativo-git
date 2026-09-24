@@ -1,7 +1,7 @@
 ```
 # 🚀 Desafio Colaborativo de Versionamento
 
-> Atividade avaliativa de gestão de repositórios, versionamento e revisão de código utilizando **Git** e **GitHub**.
+> Desafio acâdemico de gestão de repositórios, versionamento e revisão de código utilizando **Git** e **GitHub**.
 
 ---
 
